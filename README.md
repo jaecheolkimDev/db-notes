@@ -2,6 +2,16 @@ DB 공부 노트
 =============
 
 
+개념
+--------
+- 인덱스
+- 트랜잭션
+- SQL 튜닝
+- 실행계획
+- 레플리케이션
+- 샤딩
+
+
 
 홑따옴표
 --------
@@ -13,3 +23,6 @@ Java 파일로 request한 데이터를 받아서 DB에 입력하는 과정에서
 String Data = request.getParameter(data);
 Data = Data.replaceAll("'","&#39;");
 '를 &#39로 치환해서 DB에 입력!
+
+
+
